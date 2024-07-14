@@ -1,0 +1,1 @@
+This is text file in git_check folder
